@@ -22,7 +22,7 @@ NASDAQ and KOSDAQ trend-following screener dashboard for Vercel.
    - `SUPABASE_URL`
    - `SUPABASE_SERVICE_ROLE_KEY`
    - `GITHUB_ACTIONS_TOKEN`
-   - `GITHUB_REPOSITORY` (defaults to `ddss8905-sudo/stocke`)
+   - `GITHUB_REPOSITORY` (defaults to `ddss8905-sudo/newest1stock`)
    - `GITHUB_DISPATCH_BRANCH` (defaults to `main`)
    - `KIS_APP_KEY`
    - `KIS_APP_SECRET`
